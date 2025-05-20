@@ -1,0 +1,5 @@
+[tool.poetry]
+name = "calculator"
+version = "0.1.0"
+description = "A simple calculator"
+authors = ["Rohini <you@example.com>"]

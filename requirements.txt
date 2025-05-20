@@ -1,2 +1,2 @@
 pytest
-flask==0.5
+flask==2.2.5
